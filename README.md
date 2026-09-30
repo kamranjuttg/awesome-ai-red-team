@@ -517,6 +517,7 @@ Competitive intel for building your own company — know the map before you plan
 - **[Cisco AI Defense](https://www.cisco.com/site/us/en/products/security/ai-defense/index.html)** — Enterprise AI security (incl. Robust Intelligence tech).
 - **[Adversa AI](https://adversa.ai/)** — AI red teaming + secure-AI advisory; prolific research.
 - **[AI Security Startups Watchlist (Top 30)](https://medium.com/ai-security-hub/ai-security-startups-watchlist-top-30-2025-5a95471bbacc)** — Tal Eliyahu's market map. Intel for positioning your own company.
+- **[JudgeMyAI](https://judgemyai.com)** - Managed LLM red-teaming and evaluation service; adversarial testing plus LLM-as-a-judge scoring for production AI systems.
 
 ---
 
